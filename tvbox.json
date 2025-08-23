@@ -377,12 +377,12 @@
       }
     },
     {
-      "key": "taopian",
-      "name": "淘片",
+      "key": "zuid",
+      "name": "最大资源",
       "type": 1,
-      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "api": "https://api.zuidapi.com/api.php/provide/vod",
       "ext": {
-        "detail": "https://www.taopianzy.com/index.html"
+        "detail": "http://zuidazy.me"
       }
     },
     {
@@ -485,15 +485,7 @@
         "detail": "https://moduzy.com"
       }
     },
-    {
-      "key": "zuid",
-      "name": "最大资源",
-      "type": 1,
-      "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "ext": {
-        "detail": "http://zuidazy.me"
-      }
-    },
+
     {
       "key": "yinghua",
       "name": "樱花资源",
