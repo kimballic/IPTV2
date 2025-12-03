@@ -4,7 +4,7 @@
 
 const $configObj = argsify($config_str)
 // 请用您刚复制的完整、新鲜的 Cookie 字符串替换下面这个值
-const BILI_COOKIE = "" //哔哩哔哩 Cookie
+const BILI_COOKIE = "buvid3=01ADEF87-1ADA-004F-1937-0FAE2681723C87260infoc; b_nut=1749313987; b_lsid=1E7929A8_1974B3D2256; _uuid=E99EAD1D-933F-7826-8D32-ABEF4FC9536C87163infoc; CURRENT_FNVAL=4048; buvid_fp=9ec10d18295842415c1f769fd1af4233; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDk1NzMxODgsImlhdCI6MTc0OTMxMzkyOCwicGx0IjotMX0.QIAgpObd3iQPhujaTD8WmHHfyunSa3fMeLYF-LiXZmU; bili_ticket_expires=1749573128; buvid4=7C22C48E-5B31-305E-F6A4-7349CFCAA6B488168-025060800-9mez9mEfJKSSS8FLUIvMc79U7mmSUtgePCfhncdg%2BziHRZctIE871hHA2%2BIe3Ioz; rpdid=0zbfVFUeKU|1dRVQ0al0|iM|3w1UnWtK; sid=66no22gr" //哔哩哔哩 Cookie
 const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 
 // 配置
