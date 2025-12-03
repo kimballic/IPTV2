@@ -4,7 +4,7 @@
             "name": "bili",
             "type": 3,
             "api": "csp_bili",
-            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/one.js"
+            "ext": "https://github.com/kimballic/IPTV2/raw/refs/heads/main/bili.js"
         }
 
     ]
